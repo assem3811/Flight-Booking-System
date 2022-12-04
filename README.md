@@ -17,7 +17,7 @@ This is a RESTful API for a simple flight booking system that enable the user to
 
 ## Connection to Database
 
-Make sure you are using PostgreSQL and created a datbase with name flight_booking
+Make sure you are using PostgreSQL and created a database with name flight_booking
 
 ```
 spring.datasource.url=jdbc:postgresql://localhost:5432/flight_booking
